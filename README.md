@@ -1,4 +1,4 @@
-# 📅 AI Interview Scheduling System
+# 📅 Interview Scheduling Automation
 
 ## Overview
 I have created a AI-powered interview scheduling system that helps to identify the available and optimal interview slots between the candidates and the interviewrs.
